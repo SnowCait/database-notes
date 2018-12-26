@@ -9,6 +9,7 @@
 - UTC で保存 - JST で保存しても良いが統一する
 - 文字コード
 - auto increment な `id` カラムを全テーブルに持つか
+- `IF EXISTS` はなるべく使わない
 
 ## INDEX
 - PK に含まれたカラムを減らす場合ユニークにならなくなるので一度 truncate する
