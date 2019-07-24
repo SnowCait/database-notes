@@ -27,3 +27,6 @@
 ## テーブル設計
 - INSERT しかしないテーブルはログと兼用できるが、なるべくログはログとして独立させる
 - ログテーブルは DEFAULT を使わず実際のデータを INSERT する
+
+## 負荷テスト
+- [mysqlslap](https://dev.mysql.com/doc/refman/5.6/ja/mysqlslap.html)
