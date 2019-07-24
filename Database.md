@@ -30,3 +30,4 @@
 
 ## 負荷テスト
 - [mysqlslap](https://dev.mysql.com/doc/refman/5.6/ja/mysqlslap.html) - read/write の性能を測る
+  - [mysqlslapを使ってRDSのMySQLについて各クラスのパフォーマンス測定](https://dev.classmethod.jp/cloud/aws/amazon-rds-performance-test-by-mysqlslap/)
