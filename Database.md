@@ -29,4 +29,4 @@
 - ログテーブルは DEFAULT を使わず実際のデータを INSERT する
 
 ## 負荷テスト
-- [mysqlslap](https://dev.mysql.com/doc/refman/5.6/ja/mysqlslap.html)
+- [mysqlslap](https://dev.mysql.com/doc/refman/5.6/ja/mysqlslap.html) - read/write の性能を測る
