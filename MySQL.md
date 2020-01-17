@@ -13,3 +13,6 @@
 - コマンド
 - [MySQL :: MySQL Workbench](https://www.mysql.com/jp/products/workbench/)
 - [A5:SQL Mk-2 - フリーの汎用SQL開発ツール/ER図ツール .. 松原正和](https://a5m2.mmatsubara.com/)
+
+## Optimize
+- [Amazon RDS for MySQL が予想以上のストレージを使用するときのディスクストレージを最適化](https://aws.amazon.com/jp/premiumsupport/knowledge-center/rds-mysql-storage-optimization/)
