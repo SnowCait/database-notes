@@ -31,3 +31,6 @@
 ## 負荷テスト
 - [mysqlslap](https://dev.mysql.com/doc/refman/5.6/ja/mysqlslap.html) - read/write の性能を測る
   - [mysqlslapを使ってRDSのMySQLについて各クラスのパフォーマンス測定](https://dev.classmethod.jp/cloud/aws/amazon-rds-performance-test-by-mysqlslap/)
+
+## 主キー (PK)
+- [DB設計について考えてみた。ナチュラルキーとサロゲートキーはどちらが良いのか？ | 株式会社AMG Solution](https://amg-solution.jp/blog/8980)
