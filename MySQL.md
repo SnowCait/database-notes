@@ -16,3 +16,7 @@
 
 ## Optimize
 - [Amazon RDS for MySQL が予想以上のストレージを使用するときのディスクストレージを最適化](https://aws.amazon.com/jp/premiumsupport/knowledge-center/rds-mysql-storage-optimization/)
+
+## INSERT
+- [MySQLに大量のデータを入れるときに最適な方法は？](http://naoberry.com/tech/mysqldata/)
+- [SQLで大量のテストデータ作成 - Qiita](https://qiita.com/cobot00/items/8d59e0734314a88d74c7)
