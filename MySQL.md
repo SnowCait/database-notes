@@ -34,3 +34,8 @@
 SELECT FLOOR(1 + RAND() * 10);
 SELECT CEIL(RAND() * 10);
 ```
+
+## ページング
+`FOUND_ROWS()` が便利そう。
+- [MySQL :: MySQL 5.6 リファレンスマニュアル :: 12.14 情報関数](https://dev.mysql.com/doc/refman/5.6/ja/information-functions.html#function_found-rows)
+- [SQL CALC FOUND ROWSを使う - dondari](https://www.dondari.com/SQL_CALC_FOUND_ROWS%E3%82%92%E4%BD%BF%E3%81%86)
