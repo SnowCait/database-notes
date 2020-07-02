@@ -27,6 +27,9 @@
 ## ALTER
 - [ALTER TABLEにかかる実行時間を見積もりたい - tom__bo’s Blog](https://tombo2.hatenablog.com/entry/2019/07/28/222203)
 
+## DROP
+- [稼働中のサービスで安全にdrop tableする方法 - Qiita](https://qiita.com/ogataka50/items/5647106c784d293eea8d)
+
 ## ランダム
 - [MySQL :: MySQL 5.6 リファレンスマニュアル :: 12.6.2 数学関数](https://dev.mysql.com/doc/refman/5.6/ja/mathematical-functions.html#function_rand)
 - [MySQLで簡単にランダムなテストデータを作成する方法 - Qiita](https://qiita.com/tayasu/items/c5ddfc481d6b7cd8866d)
