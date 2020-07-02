@@ -29,6 +29,8 @@
 
 ## DROP
 - [稼働中のサービスで安全にdrop tableする方法 - Qiita](https://qiita.com/ogataka50/items/5647106c784d293eea8d)
+  - [負荷の高いMySQLでメタデータを極力ロックさせずにDROP TABLEする - Qiita](https://qiita.com/mxxxxkxxxx/items/7d503e8aba257dfa0947)
+  - [大量・巨大なファイル操作を低負荷で行う方法 - How old are you?](https://www.nari64.com/?p=748)
 
 ## ランダム
 - [MySQL :: MySQL 5.6 リファレンスマニュアル :: 12.6.2 数学関数](https://dev.mysql.com/doc/refman/5.6/ja/mathematical-functions.html#function_rand)
