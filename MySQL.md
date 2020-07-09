@@ -2,6 +2,7 @@
 
 ## 全般
 - [ソシャゲエンジニアの自分が開発に必須だなと思った知識（MySQL編） - Qiita](https://qiita.com/west-hiroaki/items/ea6ee53765282a9c86cb)
+- [mysqlにコマンドで接続時にパスワードを書かない | ソシャゲの作り方](http://www.24w.jp/blog/?p=165)
 
 ## キーワード
 - [ネクストキーロック](https://dev.mysql.com/doc/refman/5.6/ja/innodb-next-key-locking.html)
