@@ -34,3 +34,6 @@
 
 ## 主キー (PK)
 - [DB設計について考えてみた。ナチュラルキーとサロゲートキーはどちらが良いのか？ | 株式会社AMG Solution](https://amg-solution.jp/blog/8980)
+
+## データ量
+- [1000万件オーバーのレコードのデータをカジュアルに扱うための心構え - joker1007’s diary](https://joker1007.hatenablog.com/entry/2020/11/04/214646)
