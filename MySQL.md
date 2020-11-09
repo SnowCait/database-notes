@@ -27,6 +27,7 @@
 
 ## ALTER
 - [ALTER TABLEにかかる実行時間を見積もりたい - tom__bo’s Blog](https://tombo2.hatenablog.com/entry/2019/07/28/222203)
+- [MySQL の ALTER TABLE ... SET DEFAULT は速い - Qiita](https://qiita.com/ngyuki/items/f84ec87ae0fb29075e0c)
 
 ## DROP
 - [稼働中のサービスで安全にdrop tableする方法 - Qiita](https://qiita.com/ogataka50/items/5647106c784d293eea8d)
