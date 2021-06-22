@@ -46,3 +46,6 @@ SELECT CEIL(RAND() * 10);
 `FOUND_ROWS()` が便利そう。
 - [MySQL :: MySQL 5.6 リファレンスマニュアル :: 12.14 情報関数](https://dev.mysql.com/doc/refman/5.6/ja/information-functions.html#function_found-rows)
 - [SQL CALC FOUND ROWSを使う - dondari](https://www.dondari.com/SQL_CALC_FOUND_ROWS%E3%82%92%E4%BD%BF%E3%81%86)
+
+## メモリ
+- [MySQL で使用するメモリサイズの見積もり - 元RX-7乗りの適当な日々](https://www.na3.jp/entry/20210621/p1)
