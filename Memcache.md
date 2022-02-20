@@ -1,5 +1,9 @@
 # Memcache
 
+## 基本
+
+- [第2回　memcachedのメモリストレージを理解する：memcachedを知り尽くす｜gihyo.jp … 技術評論社](https://gihyo.jp/dev/feature/01/memcached/0002)
+
 ## 永続化
 
 - [MySQLでMemcachedプロトコルを使う | スマートスタイル TECH BLOG｜データベース＆クラウドの最新技術情報を配信](https://www.s-style.co.jp/blog/2018/01/1479/)
