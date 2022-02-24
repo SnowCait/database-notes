@@ -14,9 +14,10 @@
 - [MySQL :: MySQL 5.6 リファレンスマニュアル :: 19.6.1 パーティショニングキー、主キー、および一意キー](https://dev.mysql.com/doc/refman/5.6/ja/partitioning-limitations-partitioning-keys-unique-keys.html)
 
 ## クライアント
-- コマンド
+- CLI (`mysql`)
 - [MySQL :: MySQL Workbench](https://www.mysql.com/jp/products/workbench/)
 - [A5:SQL Mk-2 - フリーの汎用SQL開発ツール/ER図ツール .. 松原正和](https://a5m2.mmatsubara.com/)
+- [Sequel-Ace/Sequel-Ace: MySQL/MariaDB database management for macOS](https://github.com/Sequel-Ace/Sequel-Ace)
 
 ## Optimize
 - [Amazon RDS for MySQL が予想以上のストレージを使用するときのディスクストレージを最適化](https://aws.amazon.com/jp/premiumsupport/knowledge-center/rds-mysql-storage-optimization/)
