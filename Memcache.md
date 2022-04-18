@@ -5,6 +5,7 @@
 - [第2回　memcachedのメモリストレージを理解する：memcachedを知り尽くす｜gihyo.jp … 技術評論社](https://gihyo.jp/dev/feature/01/memcached/0002)
 - [memcachedのslab増加のアルゴリズム確認 - mokky14's IT diary](https://mokky14.hatenablog.com/entry/2013/07/30/092642)
 - [memcachedの仕組み(オンメモリストレージ・Slab Allocator) - [サーバー + サーバー] ぺんたん info](https://pentan.info/server/memcached.html)
+- [いざという時に抑えておきたい Memcached の最低限を知る - Qiita](https://qiita.com/koudaiii/items/7b6ef9ed9f19b0dc3b0b)
 
 ## 永続化
 
